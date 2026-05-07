@@ -660,32 +660,121 @@ Critérios de variação — usar ao menos 2 por grupo a cada treino:
 
 Exercícios que NÃO podem aparecer sempre — rotacionar obrigatoriamente:
 
-PEITORAL — rotacionar entre:
-Supino Inclinado Halteres | Supino Inclinado Máquina | Supino Inclinado Barra | Supino Reto Halteres | Supino Reto Máquina | Supino Declinado Halteres | Paralela com tronco inclinado | Pec Deck | Crossover Polia
+---
 
-COSTAS — rotacionar entre:
-Barra Fixa (pegada pronada) | Barra Fixa (pegada supinada) | Puxada Frontal | Puxada Pegada Neutra | Puxada Reta | Remada Sentado Polia | Remada Apoiada no Banco | Remada Unilateral Haltere | Remada na Máquina | Remada T-Bar
+PEITORAL — Composto (empurrão), rotacionar entre:
+Supino Reto com Barra | Supino Reto com Halteres | Supino Reto na Máquina | Supino Reto na Barra Guiada (Smith) | Supino Inclinado com Barra | Supino Inclinado com Halteres | Supino Inclinado na Máquina | Supino Inclinado na Barra Guiada (Smith) | Supino Declinado com Barra | Supino Declinado com Halteres | Paralela com tronco inclinado (ênfase peitoral)
 
-OMBRO — rotacionar entre:
-Desenvolvimento Halteres | Desenvolvimento Máquina | Press Arnold | Elevação Lateral Halteres | Elevação Lateral Polia | Elevação Lateral Máquina | Elevação Frontal Polia | Puxada Alta para o Rosto
+PEITORAL — Isolador (adução), rotacionar entre:
+Pec Deck (Voador na Máquina) | Crucifixo com Halteres (reto) | Crucifixo Inclinado com Halteres | Crossover na Polia Alta | Crossover na Polia Baixa | Crossover na Polia Média
 
-QUADRÍCEPS — rotacionar entre:
-Leg Press 45° | Leg Press Horizontal | Agachamento Hack | Agachamento Livre | Agachamento Búlgaro | Barra Guiada (Smith) | Cadeira Extensora | Cadeira Extensora parcial 0–60°
+---
 
-POSTERIOR — rotacionar entre:
-Stiff Halteres | Terra Romeno Halteres | Mesa Flexora Deitada | Mesa Flexora Sentada | Mesa Flexora em Pé | Mesa Flexora na Polia
+COSTAS — Puxada vertical, rotacionar entre:
+Barra Fixa (pegada pronada larga) | Barra Fixa (pegada supinada) | Barra Fixa (pegada neutra fechada) | Puxada Frontal na Polia (pronada larga) | Puxada Frontal na Polia (supinada) | Puxada com Pegada Neutra | Puxada Reta na Polia (braços retos)
 
-GLÚTEO — rotacionar entre:
-Elevação Pélvica Barra | Elevação Pélvica Máquina | Extensão de Quadril na Polia | Subida no Banco | Agachamento Búlgaro
+COSTAS — Remada (tração horizontal), rotacionar entre:
+Remada Curvada com Barra | Remada Curvada com Halteres | Remada Unilateral com Haltere (apoiada no banco) | Remada Sentado na Polia (triângulo/corda) | Remada Sentado na Polia (barra larga) | Remada Apoiada no Banco (Chest Supported) | Remada na Máquina | Remada T-Bar | Remada T-Bar com apoio de peito
 
-BÍCEPS — rotacionar entre:
-Rosca Direta Barra | Rosca Direta Halteres | Rosca Concentrada | Rosca Inclinada | Rosca Scott | Rosca Martelo | Rosca na Polia | Rosca Inversa
+COSTAS — Isolador:
+Pullover com Haltere | Pullover na Polia
 
-TRÍCEPS — rotacionar entre:
-Tríceps Corda | Tríceps Barra Polia | Extensão Overhead Polia | Tríceps Testa Halteres | Tríceps Francês | Extensão Overhead Haltere | Paralela (Dips)
+TRAPÉZIO E ROMBOIDES:
+Remada Alta com Barra | Remada Alta com Halteres | Remada Alta na Polia | Puxada Alta para o Rosto (Face Pull) | Encolhimento de Ombros com Barra | Encolhimento de Ombros com Halteres | Encolhimento de Ombros na Máquina
 
-PANTURRILHA — rotacionar entre:
-Panturrilha Máquina em Pé | Panturrilha no Degrau com Haltere | Leg Press (extensão do tornozelo) | Panturrilha Sentado Máquina | Panturrilha Sentado com Haltere
+LOMBAR / CADEIA POSTERIOR:
+Hiperextensão no Banco Romano | Hiperextensão Inversa | Terra com Barra (Convencional) | Terra Romeno com Barra | Terra Romeno com Halteres | Stiff com Barra | Stiff com Halteres
+
+---
+
+OMBRO — Composto (pressão), rotacionar entre:
+Desenvolvimento com Barra (à frente) | Desenvolvimento com Halteres | Desenvolvimento na Máquina | Press Arnold | Desenvolvimento na Polia
+
+OMBRO — Lateral (deltóide médio), rotacionar entre:
+Elevação Lateral com Halteres | Elevação Lateral na Polia (unilateral) | Elevação Lateral na Máquina
+
+OMBRO — Posterior (deltóide posterior), rotacionar entre:
+Puxada Alta para o Rosto na Polia (Face Pull com corda) | Voador Inverso com Halteres | Voador Inverso na Máquina (Pec Deck invertido)
+
+OMBRO — Frontal (raramente necessário isolado):
+Elevação Frontal com Halteres | Elevação Frontal na Polia | Elevação Frontal com Barra
+
+---
+
+BÍCEPS — Rosca com supinação, rotacionar entre:
+Rosca Direta com Barra | Rosca Direta com Halteres (bilaterais) | Rosca Direta com Halteres (alternada) | Rosca EZ | Rosca Scott com Barra EZ | Rosca Scott com Halteres | Rosca Concentrada | Rosca Inclinada com Halteres | Rosca na Polia Baixa | Rosca na Polia com Barra EZ
+
+BÍCEPS — Rosca neutra (braquial + braquiorradial):
+Rosca Martelo com Halteres (bilaterais) | Rosca Martelo com Halteres (alternada) | Rosca Martelo na Polia com Corda
+
+BÍCEPS — Rosca inversa (antebraço):
+Rosca Inversa com Barra EZ | Rosca Inversa com Halteres
+
+---
+
+TRÍCEPS — Polia (preferível para cotovelo sensível), rotacionar entre:
+Tríceps Corda na Polia | Tríceps Barra Reta na Polia | Extensão Overhead na Polia com Corda | Tríceps Polia Unilateral com Corda
+
+TRÍCEPS — Carga livre / máquina, rotacionar entre:
+Tríceps Testa com Barra EZ (Skull Crusher) | Tríceps Testa com Halteres | Tríceps Francês com Haltere (Extensão Overhead unilateral) | Extensão Overhead com Haltere (bilateral) | Paralela com tronco vertical (ênfase tríceps) | Tríceps no Banco
+
+---
+
+QUADRÍCEPS — Composto bilateral, rotacionar entre:
+Agachamento Livre com Barra | Agachamento Hack (máquina) | Agachamento na Barra Guiada (Smith) | Agachamento Sumo com Barra | Leg Press 45° | Leg Press Horizontal
+
+QUADRÍCEPS — Composto unilateral, rotacionar entre:
+Agachamento Búlgaro | Afundo (Avanço) com Halteres | Afundo Caminhando com Halteres | Subida no Banco (Step-up) com Halteres
+
+QUADRÍCEPS — Isolador:
+Cadeira Extensora | Cadeira Extensora parcial (0–60°)
+
+---
+
+POSTERIOR DE COXA — REGRA: combinar SEMPRE padrão de quadril + padrão de joelho.
+
+Padrão de quadril (extensão do quadril):
+Stiff com Barra | Stiff com Halteres | Stiff Unilateral com Haltere | Terra Romeno com Barra | Terra Romeno com Halteres | Terra Romeno Unilateral com Haltere | Hiperextensão no Banco Romano
+
+Padrão de joelho (flexão do joelho):
+Mesa Flexora Deitada | Mesa Flexora Sentada | Mesa Flexora em Pé (unilateral) | Flexora na Polia Baixa com Tornozeleira
+
+---
+
+GLÚTEO — Principal (extensão de quadril), rotacionar entre:
+Elevação Pélvica com Barra (Hip Thrust) | Elevação Pélvica na Máquina | Elevação Pélvica com Haltere | Extensão de Quadril na Polia com Tornozeleira | Extensão de Quadril na Máquina | Agachamento Búlgaro | Subida no Banco com Halteres | Afundo (Avanço)
+
+GLÚTEO — Lateral (abdução — glúteo médio e mínimo), rotacionar entre:
+Abdução na Máquina (Abdutor) | Abdução com Elástico em Pé | Elevação Lateral de Perna na Polia | Caminhada com Elástico (Monster Walk) | Abdução Lateral Deitada com Haltere ou Elástico
+
+---
+
+PANTURRILHA — Em pé (gastrocnêmio), rotacionar entre:
+Panturrilha na Máquina em Pé | Panturrilha no Degrau com Haltere | Panturrilha no Leg Press | Panturrilha no Hack Squat
+
+PANTURRILHA — Sentado (sóleo), rotacionar entre:
+Panturrilha Sentado na Máquina | Panturrilha Sentado com Haltere no Joelho | Panturrilha Sentado no Leg Press Horizontal
+
+---
+
+ABDÔMEN — Reto abdominal (flexão de tronco):
+Crunch na Polia | Abdominal na Máquina | Crunch no Chão | Crunch Infra-abdominal | Elevação de Pernas (joelhos dobrados) | Elevação de Pernas na Barra | Abdominal Bicicleta
+
+ABDÔMEN — Estabilização (anti-extensão):
+Prancha | Inseto Morto (Dead Bug) | Prancha Côncava (Hollow Hold)
+
+ABDÔMEN — Oblíquos (anti-rotação / flexão lateral):
+Prancha Lateral | Rotação Russa com Peso | Anti-Rotação na Polia (Pallof Press) | Crunch Oblíquo
+
+---
+
+ADUTOR (músculo interno da coxa):
+Adutor na Máquina | Agachamento Sumo com Haltere | Afundo Lateral
+
+---
+
+ANTEBRAÇO (específico para esportistas — boxe, escalada, tênis):
+Rosca Inversa com Barra EZ | Rosca de Punho com Barra (flexão de punho) | Rosca de Punho Inverso (extensão de punho) | Suspensão na Barra Fixa Estático (Dead Hang) | Rosca Martelo na Polia com Corda
 
 ---
 
