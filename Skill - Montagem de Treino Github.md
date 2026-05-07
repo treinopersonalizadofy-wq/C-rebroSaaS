@@ -235,7 +235,7 @@ NUNCA 4 ou 5 dias consecutivos. Sempre uma quebra após no máximo 3 dias seguid
 | Push/Pull em split de 3 dias (sem esporte) | Até 7–8 |
 | Legs em splits de 4–5 dias | Até 7 |
 | Upper em splits de 5 dias | Até 7 |
-| Upper/Lower em split de 4 dias | 7 (Upper) / 5 (Lower) |
+| Upper/Lower em split de 4 dias | 7 (Upper) / 5 (Lower) — NUNCA ultrapassar 5 no Lower |
 | Cliente com esporte | Max 5–6 por sessão |
 | Full Body (2 dias) | 8–10, max 1–2 por grupamento |
 
@@ -779,6 +779,12 @@ Rosca Inversa com Barra EZ | Rosca de Punho com Barra (flexão de punho) | Rosca
 ---
 
 ## 20. FORMATO DE ENTREGA
+
+REGRA ABSOLUTA DE OUTPUT:
+A resposta final deve conter EXCLUSIVAMENTE o treino no formato abaixo.
+NÃO incluir checklist, revisão pré-entrega, análise, raciocínio ou qualquer texto antes do treino.
+Começar a resposta DIRETAMENTE com ╔════════════════════════════════════════╗
+Qualquer texto antes desse símbolo é um erro grave.
 
 Objetivo: direto, limpo. Apenas o que o cliente precisa saber. Sem emojis.
 
