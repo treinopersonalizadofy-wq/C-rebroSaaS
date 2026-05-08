@@ -680,6 +680,57 @@ Sem restrições — todos os exercícios são válidos.
 
 ---
 
+## 18.8 SELEÇÃO DE EXERCÍCIOS POR NÍVEL — REGRA OBRIGATÓRIA
+
+O nível do cliente determina quais exercícios podem ser prescritos. Nunca ignorar esse filtro.
+
+### Iniciante
+
+Prioridade absoluta: máquinas e polias guiadas. O iniciante ainda não tem controle neuromuscular, estabilizadores fracos e vai compensar com articulações em exercícios livres.
+
+Regras:
+- Usar máquinas e polias como exercício principal de cada grupo
+- Evitar barra livre (supino, agachamento, desenvolvimento, remada curvada)
+- Evitar exercícios unilaterais complexos (agachamento búlgaro, stiff unilateral, terra romeno)
+- Preferir movimentos bilaterais, guiados, com amplitude controlada
+- Nota obrigatória no treino: "Foque 100% na execução correta — o peso vem depois. Cada rep deve ser controlada e sentida no músculo certo."
+
+Substituições obrigatórias para iniciantes:
+
+| Exercício livre (PROIBIDO para iniciante) | Substituição guiada |
+|---|---|
+| Supino com barra livre | Supino na máquina ou Barra Guiada (Smith) |
+| Agachamento livre com barra | Leg Press 45° ou Agachamento no Smith |
+| Desenvolvimento com barra | Desenvolvimento na máquina |
+| Remada curvada com barra | Remada na máquina ou Remada no cabo |
+| Stiff / Terra Romeno com barra | Mesa Flexora + Cadeira Extensora |
+| Agachamento Búlgaro | Cadeira Extensora + Leg Press |
+| Rosca direta com barra | Rosca na máquina ou Rosca na polia |
+| Tríceps testa com barra | Tríceps corda na polia |
+
+### Intermediário
+
+Pode usar halteres e cabos livres. Barra introduzida apenas em exercícios simples e com supervisão de forma.
+
+Regras:
+- Halteres e polias livres liberados para todos os grupos
+- Barra liberada em: supino reto, desenvolvimento, rosca direta EZ
+- Evitar barra em movimentos complexos de quadril (terra convencional, agachamento olímpico)
+- Exercícios unilaterais simples liberados (agachamento búlgaro, stiff halteres)
+- Pode introduzir exercícios instáveis se demonstrar boa base
+
+### Avançado
+
+Sem restrições de equipamento. Pode usar todos os exercícios do banco.
+
+Regras:
+- Barra livre liberada em todos os movimentos
+- Exercícios unilaterais complexos liberados
+- Movimentos de cadeia cinética completa liberados (terra convencional, clean, etc.)
+- Pode usar técnicas avançadas: drop set, rest-pause, pausa na posição de alongamento
+
+---
+
 ## 19. BANCO DE EXERCÍCIOS E VARIEDADE OBRIGATÓRIA
 
 REGRA DE VARIEDADE — CRÍTICA:
