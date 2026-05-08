@@ -1,12 +1,12 @@
-# Skill — Montagem de Treino TRAINFY
+# Skill — Montagem de Treino TRAYNFY
 
 > Leia este arquivo INTEIRO antes de montar qualquer treino. Todas as regras estão aqui.
 
 ---
 
-## FILOSOFIA DO TRAINFY
+## FILOSOFIA DO TRAYNFY
 
-O TRAINFY usa o estilo low volume, alta qualidade:
+O TRAYNFY usa o estilo low volume, alta qualidade:
 
 - 2–3 séries válidas por exercício — nunca mais. Com aquecimento + feeder corretos, 2–3 séries com máxima qualidade geram mais hipertrofia do que 5 séries onde as últimas chegam com queda de performance.
 - Boa carga — próximo da falha dentro do range, nunca acomodado.
@@ -873,7 +873,7 @@ Qualquer texto antes desse símbolo é um erro grave.
 Objetivo: direto, limpo. Apenas o que o cliente precisa saber. Sem emojis.
 
 ╔════════════════════════════════════════╗
-TRAINFY — TREINO
+TRAYNFY — TREINO
 ╚════════════════════════════════════════╝
 
 Cliente: [email]
