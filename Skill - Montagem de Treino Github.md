@@ -234,7 +234,7 @@ NUNCA 4 ou 5 dias consecutivos. Sempre uma quebra após no máximo 3 dias seguid
 |---|---|
 | Cliente sem esporte — padrão | Max 6 exercícios |
 | Push/Pull em split de 3 dias (sem esporte) | Até 7–8 |
-| Legs em splits de 4–5 dias | Até 7 |
+| Legs (qualquer split) | Máximo 6 — NUNCA ultrapassar |
 | Upper em splits de 5 dias | Até 7 |
 | Upper/Lower em split de 4 dias | 7 (Upper) / 6 (Lower) — NUNCA ultrapassar 6 no Lower |
 | Cliente com esporte | Max 5–6 por sessão |
@@ -294,7 +294,7 @@ Distribuição: Seg / Ter / Qua → Qui DESCANSO
 |---|---|---|
 | Push | Peitoral (3) + Ombro (2) + Tríceps (1–2) | 6–7 |
 | Pull | Dorsal (2) + Trapézio médio (1) + Trapézio inf (1) + Bíceps (2) + Panturrilha sentado (1) | 6–7 |
-| Legs | Quadríceps composto (1) + Quadríceps isolado (1) + Posterior (1) + Glúteo principal (1) + Glúteo lateral (1) + Panturrilha em pé (1) | 6–7 |
+| Legs | Quadríceps (2–3) + Posterior (1–2) + Glúteo 1 homem/2 mulher + Panturrilha (1) | Máximo 6 |
 
 ---
 
@@ -391,7 +391,7 @@ Substituições obrigatórias:
 - Desenvolvimento com barra → Halteres
 - Elevação lateral com halteres pesados → Polia
 
-Aquecimento (dias de Push e Upper):
+Aquecimento (dias de Push e Upper) — APENAS SE o cliente declarou lesão no ombro. Se não declarou, NÃO incluir este aquecimento:
 - Rotação externa com elástico — 3x15 — 60s
 - Puxada Alta para o Rosto — 3x15 — 60s
 
