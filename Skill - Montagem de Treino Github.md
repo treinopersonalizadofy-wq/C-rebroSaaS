@@ -122,7 +122,8 @@ Regra absoluta: nunca mais de 3 séries válidas por exercício.
 ### Trabalho indireto dos compostos — REGRA CRÍTICA
 
 - Tríceps em Push: cada supino já trabalha o tríceps indiretamente. Após 2–3 supinos, o tríceps está aquecido — não precisa de aquecimento próprio. Com 3 séries indiretas dos supinos + 1 exercício direto (2–3 séries), o tríceps atinge o MEV com 1 único exercício direto.
-- Bíceps em Pull: cada puxada/remada ativa o bíceps indiretamente, mas com menos intensidade. O bíceps ainda precisa de 2 exercícios diretos para atingir o volume adequado.
+- Bíceps em Pull (PPL): cada puxada/remada ativa o bíceps indiretamente, mas com menos intensidade. No Pull do PPL, bíceps ainda precisa de 2 exercícios diretos para atingir o volume adequado.
+- Bíceps em Upper (Upper/Lower): MÁXIMO 1 exercício direto. Na sessão Upper, costas (remadas + puxadas) já recrutam bíceps extensamente — 2 exercícios de bíceps seria excesso de volume, ultrapassaria o limite de 7 e comprometeria a recuperação.
 - Ombro frontal no Desenvolvimento: o próprio desenvolvimento já é o exercício de ombro frontal — não há dupla cobertura.
 
 ---
@@ -235,12 +236,39 @@ NUNCA 4 ou 5 dias consecutivos. Sempre uma quebra após no máximo 3 dias seguid
 | Push/Pull em split de 3 dias (sem esporte) | Até 7–8 |
 | Legs em splits de 4–5 dias | Até 7 |
 | Upper em splits de 5 dias | Até 7 |
-| Upper/Lower em split de 4 dias | 7 (Upper) / 5 (Lower) — NUNCA ultrapassar 5 no Lower |
+| Upper/Lower em split de 4 dias | 7 (Upper) / 6 (Lower) — NUNCA ultrapassar 6 no Lower |
 | Cliente com esporte | Max 5–6 por sessão |
 | Full Body (2 dias) | 8–10, max 1–2 por grupamento |
 
 Exercícios de reabilitação e abdômen NÃO contam na contagem.
 Se o checklist semanal não couber dentro do limite: substituir o menos prioritário — nunca ultrapassar.
+
+### 10.1 DISTRIBUIÇÃO EXATA POR GRUPO MUSCULAR — Upper/Lower
+
+UPPER — máximo 7 exercícios principais:
+
+| Grupo | Exercícios | Regra crítica |
+|---|---|---|
+| Peitoral | 2 | 1 composto + 1 isolador |
+| Costas | 2 | 1 puxada + 1 remada |
+| Ombro | 1 | |
+| Bíceps | MÁXIMO 1 | Costas já recrutam bíceps — 2 exercícios é excesso |
+| Tríceps | 1 | Supinos já recrutam tríceps indiretamente |
+| Total | 7 | |
+
+LOWER — máximo 6 exercícios principais:
+
+| Grupo | Exercícios | Regra crítica |
+|---|---|---|
+| Quadríceps | 2–3 | Composto + isolador (músculos grandes = prioridade) |
+| Posterior de coxa | 1–2 | Padrão quadril + padrão joelho |
+| Glúteo | 1 (homem) / 2 (mulher) | Ver regra de gênero na seção 18.5 |
+| Panturrilha | 1 | |
+| Total | 5–6 | |
+
+EXTRAS — fora da contagem principal:
+- ABDÔMEN: máximo 2 exercícios por sessão, 2x/semana — NÃO conta no limite
+- ANTEBRAÇO: apenas se o cliente solicitar explicitamente — NÃO conta no limite
 
 ---
 
@@ -590,7 +618,8 @@ Se faltou algo e há espaço → adicionar. Se limite atingido → substituir o 
 - Não repetir exercícios: mesmo exercício max 1x/semana | Legs B ≠ Legs A | Upper 2 ≠ Upper 1 | Lower ≠ Legs (incluindo isoladores como Cadeira Extensora)
 - Linguagem: nenhum nome em inglês — usar sempre o nome brasileiro
 - Abdômen: 2x/semana | Upper/Push preferencialmente | 2 exercícios diferentes entre as sessões
-- Gênero: homens — sem exercícios com tornozeleira em posição empinada para glúteo
+- Gênero: homens — sem exercícios com tornozeleira empinada + glúteo máximo 1 por Lower | mulheres — glúteo 2 por Lower
+- Bíceps em Upper: MÁXIMO 1 exercício direto — nunca 2 no mesmo Upper
 - Emparcelamento esporte: esportes de costas/bíceps emparelhados com Push, não Pull
 - Nota final: aviso de fisgada + sono/hidratação para todos | reabilitação se lesão
 
@@ -641,6 +670,10 @@ Evitar exercícios com tornozeleira em posição empinada:
 - Abdução com tornozeleira na polia → substituir por Abdução na Máquina
 
 Para glúteo masculino usar: Elevação Pélvica (máquina ou barra) | Leg Press com ênfase no glúteo | Stiff | Subida no Banco
+
+CONTAGEM DE EXERCÍCIOS DE GLÚTEO POR GÊNERO — REGRA CRÍTICA:
+- Homens: 1 exercício de glúteo por sessão de Lower (ex: Elevação Pélvica)
+- Mulheres: 2 exercícios de glúteo por sessão de Lower (ex: Elevação Pélvica + Abdução na Máquina)
 
 ### Mulheres
 Sem restrições — todos os exercícios são válidos.
