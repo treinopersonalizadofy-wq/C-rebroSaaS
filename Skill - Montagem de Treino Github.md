@@ -121,7 +121,7 @@ Regra absoluta: nunca mais de 3 séries válidas por exercício.
 
 ### Trabalho indireto dos compostos — REGRA CRÍTICA
 
-- Tríceps em Push: cada supino já trabalha o tríceps indiretamente. Após 2–3 supinos, o tríceps está aquecido — não precisa de aquecimento próprio. Com 3 séries indiretas dos supinos + 1 exercício direto (2–3 séries), o tríceps atinge o MEV com 1 único exercício direto.
+- Tríceps em Push: cada supino já trabalha o tríceps indiretamente. Após 2–3 supinos, o tríceps está aquecido — não precisa de aquecimento próprio. Usar SEMPRE 2 exercícios diretos de tríceps em Push/PPL: 1 para a cabeça lateral (Corda na polia) + 1 para a cabeça longa (Tríceps Testa ou Francês com haltere). A cabeça longa (porção longa) é a mais subtreinada e só é ativada em exercícios com o braço acima da cabeça ou em extensão overhead.
 - Bíceps em Pull (PPL): cada puxada/remada ativa o bíceps indiretamente, mas com menos intensidade. No Pull do PPL, bíceps ainda precisa de 2 exercícios diretos para atingir o volume adequado.
 - Bíceps em Upper (Upper/Lower): MÁXIMO 1 exercício direto. Na sessão Upper, costas (remadas + puxadas) já recrutam bíceps extensamente — 2 exercícios de bíceps seria excesso de volume, ultrapassaria o limite de 7 e comprometeria a recuperação.
 - Ombro frontal no Desenvolvimento: o próprio desenvolvimento já é o exercício de ombro frontal — não há dupla cobertura.
@@ -272,6 +272,96 @@ EXTRAS — fora da contagem principal:
 
 ---
 
+## 10.2 HIERARQUIA DE PRIORIDADES E ALOCAÇÃO FIXA DE SLOTS
+
+### REGRA FUNDAMENTAL
+
+O limite de exercícios (7 Upper/Push, 6 Legs, etc.) foi calculado para caber EXATAMENTE a cobertura completa obrigatória. Não existe conflito real entre limite e cobertura — o conflito só aparece quando slots obrigatórios são preenchidos com exercícios errados ou desnecessários.
+
+### HIERARQUIA DE DECISÃO (do mais para o menos prioritário)
+
+1. **SEGURANÇA** — Protocolos de lesão são inegociáveis. Bird Dog, Prancha e Hip Thrust leve (lombar) NÃO contam no limite e nunca podem ser removidos por causa de contagem.
+2. **COBERTURA SEMANAL COMPLETA** — Todas as porções de todos os grupos devem estar cobertas ao fim da semana. Prioridade absoluta sobre qualquer outra decisão de seleção.
+3. **COMPOSTOS ANTES DE ISOLADORES** — Quando um grupo tem 1 slot, usar composto. Isolador é o 2º ou 3º exercício do mesmo grupo.
+4. **NÍVEL DO CLIENTE** — Dentro dos slots, selecionar exercício adequado ao nível (iniciante = máquina, intermediário = haltere/cabo, avançado = livre).
+5. **VARIAÇÃO** — Variar padrões e ângulos entre sessões. Nunca repetir o mesmo exercício duas vezes na semana.
+
+### ALOCAÇÃO FIXA DE SLOTS — PUSH (max 7)
+
+| Slot | Porção obrigatória | Tipo de exercício |
+|---|---|---|
+| 1 | Peitoral superior | Supino inclinado |
+| 2 | Peitoral médio | Supino reto ou Pec Deck |
+| 3 | Peitoral inferior | Supino declinado / Paralela / Crossover polia BAIXA |
+| 4 | Ombro frontal | Desenvolvimento |
+| 5 | Ombro lateral | Elevação lateral |
+| 6 | Tríceps cabeça lateral | Corda na polia |
+| 7 | Tríceps cabeça longa | Testa / Francês (sem aquecimento próprio) |
+
+→ 7 slots = 7 porções obrigatórias. Não sobra espaço para extras além de abdômen (não conta).
+
+### ALOCAÇÃO FIXA DE SLOTS — PULL (max 7)
+
+| Slot | Porção obrigatória | Tipo de exercício |
+|---|---|---|
+| 1 | Dorsal | Puxada frontal |
+| 2 | Trapézio médio + romboides | Remada (unilateral, sentado ou máquina) |
+| 3 | Trapézio inferior + ombro de trás | Puxada Alta para o Rosto |
+| 4 | Bíceps rosca direta | Rosca EZ / polia / máquina |
+| 5 | Bíceps rosca martelo | Rosca Martelo |
+| 6 | Panturrilha sentado (porção funda) | Panturrilha sentado na máquina |
+| 7 | Opcional: 2ª remada ou pullover | Apenas se todos os outros slots preenchidos |
+
+→ 6 slots obrigatórios + 1 opcional.
+
+### ALOCAÇÃO FIXA DE SLOTS — LEGS (max 6)
+
+| Slot | Porção obrigatória | Tipo de exercício |
+|---|---|---|
+| 1 | Quadríceps composto | Leg Press / Agachamento máquina |
+| 2 | Quadríceps isolado | Cadeira extensora |
+| 3 | Posterior de coxa | Stiff / Mesa flexora |
+| 4 | Glúteo principal | Elevação Pélvica (Hip Thrust) |
+| 5 | Panturrilha em pé (porção superficial) | Panturrilha em pé na máquina |
+| 6 | **HOMEM:** 2º posterior (mesa flexora) ou 2º quad (hack) | — |
+| 6 | **MULHER:** Glúteo lateral | Abdução de quadril |
+
+→ 6 slots = cobertura completa de pernas dentro do limite.
+
+### ALOCAÇÃO FIXA DE SLOTS — FULL BODY A — ANTERIOR (max 9)
+
+| Slot | Porção obrigatória | Tipo de exercício |
+|---|---|---|
+| 1 | Peitoral superior | Supino inclinado |
+| 2 | Peitoral médio | Supino reto ou Pec Deck |
+| 3 | Peitoral inferior | Supino declinado / Crossover polia baixa |
+| 4 | Ombro frontal | Desenvolvimento |
+| 5 | Ombro lateral | Elevação lateral |
+| 6 | Quadríceps composto | Leg Press |
+| 7 | Quadríceps isolado | Cadeira extensora |
+| 8 | Bíceps | Rosca direta ou Rosca na máquina |
+| 9 | Panturrilha em pé | Panturrilha em pé na máquina |
+
+→ Abdômen é extra (não conta). Total: 9 slots obrigatórios.
+
+### ALOCAÇÃO FIXA DE SLOTS — FULL BODY B — POSTERIOR (max 8 homem / max 9 mulher)
+
+| Slot | Porção obrigatória | Tipo de exercício |
+|---|---|---|
+| 1 | Dorsal | Puxada frontal |
+| 2 | Trapézio médio + romboides | Remada |
+| 3 | Ombro de trás | Puxada Alta para o Rosto |
+| 4 | Posterior de coxa | Stiff / Mesa flexora |
+| 5 | Glúteo principal | Elevação Pélvica |
+| 6 | **MULHER APENAS:** Glúteo lateral | Abdução de quadril |
+| 6/7 | Tríceps cabeça lateral | Corda na polia |
+| 7/8 | Tríceps cabeça longa | Testa / Francês na máquina |
+| 8/9 | Panturrilha sentado | Panturrilha sentado na máquina |
+
+→ Abdômen é extra (não conta). Total: 8 (homem) ou 9 (mulher) slots obrigatórios.
+
+---
+
 ## 11. DIVISÃO POR DIAS
 
 ### 2 dias → Full Body A + Full Body B
@@ -292,7 +382,7 @@ Distribuição: Seg / Ter / Qua → Qui DESCANSO
 
 | Treino | Grupos | Exercícios |
 |---|---|---|
-| Push | Peitoral (3) + Ombro (2) + Tríceps (1–2) | 6–7 |
+| Push | Peitoral (3) + Ombro (2) + Tríceps (2) | 7 |
 | Pull | Dorsal (2) + Trapézio médio (1) + Trapézio inf (1) + Bíceps (2) + Panturrilha sentado (1) | 6–7 |
 | Legs | Quadríceps (2–3) + Posterior (1–2) + Glúteo 1 homem/2 mulher + Panturrilha (1) | Máximo 6 |
 
@@ -364,7 +454,7 @@ Substituições obrigatórias:
 
 Aquecimento APENAS nos dias com carga lombar direta (Pull, Legs) E apenas se o cliente declarou lesão lombar.
 NÃO colocar em Push ou Upper. Se o cliente NÃO tem lombar: não incluir.
-- Inseto Morto (Bird Dog) — 3x10 cada lado — 60–75s
+- Bird Dog (Pássaro-Cão) — 3x10 cada lado — 60–75s
 - Prancha — 3x30s — 60–75s
 - Elevação Pélvica leve — 3x15 — 60s
 
@@ -584,7 +674,7 @@ Variar o exercício entre as 2 sessões — nunca repetir o mesmo nas duas.
 ## 14. CHECKLIST SEMANAL — PASSAR ANTES DE ENTREGAR
 
 Clientes sem esporte — verificar se a semana cobre:
-- Peitoral: superior + médio + inferior
+- Peitoral: superior (supino inclinado) + médio (supino reto/voador) + inferior (supino declinado | paralela | crossover polia BAIXA) — Crossover polia ALTA NÃO cobre inferior
 - Costas: dorsal + trapézio médio + trapézio inferior
 - Ombro: frontal + lateral + de trás
 - Quadríceps: composto + isolado
@@ -608,13 +698,13 @@ Se faltou algo e há espaço → adicionar. Se limite atingido → substituir o 
 - Volume: grupos grandes têm mínimo 3 exercícios no dia principal (sem esporte)
 - Ordenação: compostos antes de isoladores | grupo maior antes do menor | grupos agrupados
 - Padrão de movimento: max 2 do mesmo padrão por grupo | 3º exercício muda o padrão
-- Estrutura de séries: 1º exercício de cada grupo tem aquec+feeder | demais vão direto
-- Trabalho indireto: tríceps em Push não precisa de aquecimento | bíceps em Pull precisa de 2 exercícios diretos
+- Estrutura de séries: 1º exercício de cada grupo tem aquec+feeder | demais vão direto — INCLUINDO grupos menores como panturrilha e glúteo
+- Trabalho indireto: tríceps em Push NÃO precisa de aquecimento próprio (supinos já aquecem) | bíceps em Pull precisa de 2 exercícios diretos
 - Descanso: composto pesado = 2:30–3min | secundário = 2min | isolador = 90s | reab = 60–75s
 - Rep ranges: compostos 6–8 | isoladores 10–15 | leves 10–20
 - Priorização: foco em grupamento = +1 série válida (2→3), não +1 exercício
 - Lesões: ativar protocolo APENAS para lesões declaradas — nunca ativar aquecimento de lesão não declarada
-- Lombar: aquecimento (Inseto Morto/Prancha) APENAS se cliente tem lombar declarada E APENAS em Pull/Legs
+- Lombar: aquecimento (Bird Dog/Prancha) APENAS se cliente tem lombar declarada E APENAS em Pull/Legs
 - Não repetir exercícios: mesmo exercício max 1x/semana | Legs B ≠ Legs A | Upper 2 ≠ Upper 1 | Lower ≠ Legs (incluindo isoladores como Cadeira Extensora)
 - Linguagem: nenhum nome em inglês — usar sempre o nome brasileiro
 - Abdômen: 2x/semana | Upper/Push preferencialmente | 2 exercícios diferentes entre as sessões
