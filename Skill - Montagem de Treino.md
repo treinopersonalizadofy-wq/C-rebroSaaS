@@ -46,6 +46,8 @@ O TRAYNFY usa o estilo **low volume, alta qualidade** — o mesmo usado pelos gr
 
 > Academia é estímulo. O crescimento acontece no descanso. Treinar mais não é treinar melhor.
 
+> **Aquecimento cardiovascular:** recomendável 5–10 min de esteira ou bicicleta leve antes da sessão. Obrigatório para clientes iniciantes e 60+. Para intermediários e avançados, opcional — os exercícios de aquecimento já cumprem essa função.
+
 ---
 
 ## 1. LINGUAGEM — TERMOS OBRIGATÓRIOS
@@ -106,12 +108,12 @@ Sexo:
 Idade:
 Nível:              iniciante / intermediário / avançado
 Objetivo:           hipertrofia / emagrecimento / força / condicionamento
-Dias academia/sem:  2 / 3 / 4 / 5
+Dias academia/sem:  2 / 3 / 4 / 5 / 6
 Tempo por treino:   30 / 45 / 60 / 90 / 120 min
-Local:              academia / casa
+Local:              academia / casa  ← se "casa": ver seção 12.5 antes de montar
 Esporte praticado:  _______________
 Frequência esporte: 1x / 2x / 3x / 4x por semana
-Dias do esporte:    _______________
+Dias do esporte:    _______________  ← CRÍTICO: checar contra a distribuição semanal (seção 13) antes de montar os dias de academia
 Foco muscular:      _______________ (texto livre)
 Dores e lesões:     Lombar / Joelho / Ombro / Cotovelo / Punho / Cervical / Quadril
 Observações:        _______________
@@ -195,9 +197,13 @@ Exercícios compostos recrutam músculos secundários. Isso afeta aquecimento e 
 
 | Tempo | Upper | Lower |
 |---|---|---|
+| 45 min | **5 exercícios** | **4 exercícios** |
 | 60 min | **7 exercícios** | **5 exercícios** |
+| 90 min | **7 exercícios (teto)** | **6 exercícios (teto)** |
 
 > Lower tem menos exercícios no mesmo tempo porque as cargas são maiores (mais set-up), o descanso entre compostos de perna é mais longo, e a sobrecarga muscular exige mais tempo de recuperação entre séries.
+>
+> ⚠️ **90 min não significa mais exercícios além dos tetos da seção 10** — significa mais qualidade de descanso, aquecimento mais cuidadoso e melhor execução. Nunca ultrapassar 7 Upper / 6 Lower independente do tempo disponível.
 
 ### Distribuição padrão dos dias Lower (60 min) — Upper/Lower 2x:
 
@@ -621,9 +627,11 @@ Se o cliente NAO tem lombar: não incluir Bird Dog nem Prancha.
 - Afundo → Step-up
 
 **Aquecimento ESSENCIAL (dias de Legs):**
-- Hip Thrust — 3x15 — 2 min descanso
-- Abdução de quadril — 3x15 — 90s
-- Mesa Flexora — 3x12 — 90s
+- Hip Thrust leve (50% da carga normal) — 2x15 — 60s descanso
+- Abdução de quadril — 2x15 — 60s descanso
+- Mobilidade de joelho: extensão passiva + círculos — 10 reps cada — sem descanso
+
+> ⚠️ Mesa Flexora foi removida do aquecimento — 3x12 com 90s de descanso é protocolo de série válida, não de aquecimento. Se o plano incluir Mesa Flexora no dia de Legs para joelho, posicioná-la como **1º exercício válido** da sessão (não no aquecimento).
 
 ---
 
@@ -697,6 +705,44 @@ Hip Thrust: manter se não houver pinçamento. Se o cliente sentir beliscão na 
 Stiff e Terra Romeno: geralmente seguros para quadril — manter com atenção à amplitude.
 
 **Aquecimento obrigatório antes de Legs (não conta):** Circling de quadril 10 cada lado + Hip Flexor Stretch 30s cada lado + Monster Walk com elástico 15 passos — 60-75s entre cada.
+
+---
+
+## 12.5 TREINO EM CASA — RESTRIÇÕES E SUBSTITUIÇÕES
+
+> **Gatilho:** campo `Local: casa` preenchido no formulário. Ler esta seção ANTES de montar qualquer exercício.
+
+### Premissa
+A TRAYNFY atende primariamente alunos de academia. Treino em casa é suportado com restrições — sem improvisos que gerem risco ou resultado abaixo do padrão.
+
+### Equipamentos mínimos necessários
+O treino em casa só é viável se o cliente tiver ao menos:
+- **Opção A (ideal):** Kit de halteres ajustáveis + banco regulável
+- **Opção B (básico):** Halteres fixos em pelo menos 3 cargas diferentes + cadeira resistente
+
+Se o cliente não tiver equipamento algum → informar que a plataforma não cobre treino apenas com peso corporal neste momento e orientar a academia ou kit básico.
+
+### Substituições obrigatórias por equipamento ausente
+
+| Exercício de academia | Substituto em casa |
+|---|---|
+| Supino inclinado (banco + barra) | Supino inclinado com halteres no banco regulável |
+| Puxada frontal na polia | Remada invertida na barra ou mesa (peso corporal) |
+| Remada sentado na polia | Remada unilateral com haltere apoiado na cadeira |
+| Leg Press | Agachamento com halteres ou Agachamento Búlgaro |
+| Cadeira extensora | Agachamento unilateral parcial (pistol parcial) |
+| Mesa flexora | Stiff unilateral com haltere |
+| Pec Deck / Voador | Crucifixo com halteres deitado |
+| Elevação lateral na polia | Elevação lateral com halteres |
+| Tríceps corda na polia | Tríceps testa com haltere / extensão overhead |
+| Cadeira abdutora | Side-lying hip abduction com elástico |
+| Cadeira adutora | Adução deitado com elástico |
+
+### Limites de exercícios — igual à academia
+Os mesmos tetos da seção 10 se aplicam. Não reduzir o número de exercícios por ser casa — reduzir apenas se o equipamento realmente não permitir.
+
+### Aviso obrigatório no treino entregue
+Sempre incluir no final do treino: *"Exercícios adaptados para treino em casa com halteres e banco. Para melhores resultados, os movimentos de polia e máquina podem ser feitos em academia quando possível."*
 
 ---
 
