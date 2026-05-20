@@ -32,7 +32,7 @@ O cliente recebe EXCLUSIVAMENTE o treino montado, começando em "TRAYNFY — TRE
 | [[Split - PPLUP (Push Pull Legs Upper Lower)]] | Cliente com 5 dias/semana |
 | [[Split - PPL 2x]] | Cliente com 6 dias/semana (avançado, horário flexível) |
 | [[Treino - Hipertrofia]] | Detalhes de volume e rep ranges para hipertrofia |
-| [[Treino - Estrutura das Séries]] | Dúvidas sobre aquecimento, feeder, séries válidas |
+| [[Treino - Estrutura das Séries]] | Dúvidas sobre aquecimento, ajuste, séries válidas |
 | [[Treino - Periodização]] | Detalhes das 12 semanas |
 | [[Treino - Emagrecimento]] | Objetivo emagrecimento |
 | [[Treino - Força]] | Objetivo força |
@@ -54,7 +54,7 @@ O cliente recebe EXCLUSIVAMENTE o treino montado, começando em "TRAYNFY — TRE
 
 O TRAYNFY usa o estilo **low volume, alta qualidade** — o mesmo usado pelos grandes treinadores:
 
-- **2–3 séries válidas por exercício** — nunca mais. Com aquecimento + feeder corretos, 2–3 séries com máxima qualidade geram mais hipertrofia do que 5 séries onde as últimas chegam com queda de performance.
+- **2–3 séries válidas por exercício** — nunca mais. Com aquecimento + ajuste corretos, 2–3 séries com máxima qualidade geram mais hipertrofia do que 5 séries onde as últimas chegam com queda de performance.
 - **Boa carga** — próximo da falha dentro do range, nunca acomodado.
 - **Execução limpa** — forma correta sempre acima de peso maior.
 - **Descanso adequado** — respeitado por ciência, não por pressa.
@@ -121,11 +121,11 @@ Observações:        _______________
 ```
 1º EXERCÍCIO DE CADA GRUPO MUSCULAR:
   AQUECIMENTO  = 2x12 com ~50% da carga de trabalho
-  FEEDER       = 1x6  com ~75% da carga de trabalho
+  AJUSTE       = 1x6  com ~75% da carga de trabalho
   SÉRIES VÁLIDAS = 2–3 séries com carga máxima
 
 2º, 3º EXERCÍCIO DO MESMO GRUPO:
-  Vai direto para séries válidas — sem aquecimento, sem feeder.
+  Vai direto para séries válidas — sem aquecimento, sem ajuste.
   O músculo já está aquecido pelo exercício anterior.
 ```
 
@@ -653,7 +653,7 @@ Se faltou algo e há espaço no limite → adicionar. Se limite atingido → sub
 - [ ] **Volume:** grupos grandes (peitoral, dorsal) têm mínimo 3 exercícios no dia principal (sem esporte)
 - [ ] **Ordenação:** compostos antes de isoladores | grupo maior antes do menor | grupos agrupados, não intercalados
 - [ ] **Padrão de movimento:** máx 2 do mesmo padrão por grupo | 3º exercício muda o padrão
-- [ ] **Estrutura de séries:** 1º exercício de cada grupo tem aquec+feeder | demais vão direto
+- [ ] **Estrutura de séries:** 1º exercício de cada grupo tem aquec+ajuste | demais vão direto
 - [ ] **Trabalho indireto:** tríceps em Push não precisa de aquecimento | recebe séries indiretas dos supinos
 - [ ] **Descanso:** composto pesado = 2:30–3min | secundário = 2min | isolador = 90s | reab = 60–75s
 - [ ] **Rep ranges:** compostos 6–8 | isoladores 10–15 | leves 10–20
@@ -786,7 +786,7 @@ Como: [1 linha objetiva]
 [Grupo: Peito]
 
 1. [Exercício]
-   Séries: Aquec 2x12   Feeder 1x6   Válidas [N]x[reps]
+   Séries: Aquec 2x12   Ajuste 1x6   Válidas [N]x[reps]
    Descanso: [tempo] nas válidas
    Como: [1 linha objetiva]
    Erro: [erro] — [correção breve]
